@@ -1,15 +1,6 @@
-.logo{
+.middle{
 	position: fixed;
 	top: 40%;
 	left: 40%;
 }
 
-.buttons{
-	position: relative;
-	left: 40%;
-}
-
-.inputText{
-	position: relative;
-	left: 35%
-}
