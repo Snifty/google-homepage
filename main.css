@@ -27,8 +27,13 @@ ul {
 	padding: 0;
 }
 
+.bottomnav{
+	bottom: 8px;
+}
+
 li {
 	display: inline;
+	padding: 10px;
 }
 
 a {
