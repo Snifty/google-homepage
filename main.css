@@ -1,6 +1,37 @@
 .middle{
 	position: fixed;
 	top: 40%;
+	left: 30%;
+}
+
+#logo{
+	position: relative;
 	left: 40%;
 }
 
+#textbar{
+	position: relative;
+	left: 15%;
+}
+
+#buttons{
+	position: relative;
+	left: 40%;
+}
+
+ul {
+	position: absolute;
+	right: 10px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
